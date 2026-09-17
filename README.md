@@ -1,2 +1,9 @@
-# -Windows-
-このプロジェクトはWindows7移行の一般ユーザ向けにOS軽量目的で開発されました。
+# Windows一般ユーザ向け軽量ランチャ-
+## 1.動作環境
+Windows7
+
+Windows8.1
+
+Windows10
+
+Windows11
