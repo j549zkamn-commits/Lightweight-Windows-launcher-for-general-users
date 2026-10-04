@@ -65,6 +65,10 @@ Windows11
 
 配信後は、バージョン情報に記入しますのでご覧ください。
 
+DiscordURLはこちら↓
+
+https://discord.gg/JGsm42QRe
+
 
 
 
