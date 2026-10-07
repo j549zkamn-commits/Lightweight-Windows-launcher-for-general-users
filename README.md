@@ -65,8 +65,12 @@ OS　Windows7home
 
 <img width="907" height="682" alt="スクリーンショット 2026-10-06 213634" src="https://github.com/user-attachments/assets/8b854af5-0a56-4201-8cc5-8619ffab2efd" />
 
+## 8.今後の展望
 
-## 8.その他
+現在のUIとは違う配置で分かりやすいように改善します。
+　
+またアカウントを切り替えなくてもWindowsupdateを適用できるように改善する予定です。
+## 9.その他
 
 ランチャーのバグ報告は、Discordの方で共有お願いします。
 
