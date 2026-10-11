@@ -63,7 +63,8 @@ Windows11
 
 OS　Windows7home
 
-<img width="907" height="682" alt="スクリーンショット 2026-10-06 213634" src="https://github.com/user-attachments/assets/8b854af5-0a56-4201-8cc5-8619ffab2efd" />
+<img width="676" height="344" alt="スクリーンショット 2026-10-11 141002" src="https://github.com/user-attachments/assets/5197396c-4050-4812-8b05-391ffee9828a" />
+
 
 ## 8.今後の展望
 
