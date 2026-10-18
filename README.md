@@ -80,9 +80,10 @@ OS　Windows7home
 
 配信後は、バージョン情報に記入しますのでご覧ください。
 
-DiscordURLはこちら↓
+開発フィードバック用DiscordURLはこちら↓
 
 https://discord.gg/JGsm42QRe
+
 
 
 
