@@ -84,6 +84,9 @@ OS　Windows7home
 
 https://discord.gg/JGsm42QRe
 
+※共同開発に興味のある方やバグ報告等はこのサーバーで受け付けております
+
+
 
 
 
