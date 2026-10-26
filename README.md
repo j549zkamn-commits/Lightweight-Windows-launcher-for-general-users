@@ -61,7 +61,7 @@ Windows11
 
 ## 7.動作画像
 
-OS　Windows7home
+OS　Windows7Home
 
 <img width="676" height="344" alt="スクリーンショット 2026-10-11 141002" src="https://github.com/user-attachments/assets/5197396c-4050-4812-8b05-391ffee9828a" />
 
