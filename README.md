@@ -82,7 +82,7 @@ OS　Windows7Home
 
 開発フィードバック用DiscordURLはこちら↓
 
-https://discord.gg/JGsm42QRe
+https://discord.gg/FfKz3p3PnP
 
 ※共同開発に興味のある方やバグ報告等はこのサーバーで受け付けております
 
