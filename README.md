@@ -80,11 +80,13 @@ OS　Windows7Home
 
 配信後は、バージョン情報に記入しますのでご覧ください。
 
-開発フィードバック用DiscordURLはこちら↓
+現在共同開発や運用フィードバック用の連絡先としてDiscordサーバ－を運用しています。
 
-https://discord.gg/FfKz3p3PnP
+この開発に興味をお持ちの方は参加よろしくお願いします。
 
-※共同開発に興味のある方やバグ報告等はこのサーバーで受け付けております
+GitHub用Discordサーバー↓
+
+https://discord.gg/xZ4jUXg52
 
 
 
